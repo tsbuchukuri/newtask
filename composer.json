@@ -1,0 +1,16 @@
+{
+  "name": "tsotne/new-task",
+  "description": "Realtyna test",
+  "authors": [
+    {
+      "name": "tsotne buchukuri",
+      "email": "ts.buchukuri@yahoo.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Newtask\\": "incs"
+    }
+  }
+}
+
